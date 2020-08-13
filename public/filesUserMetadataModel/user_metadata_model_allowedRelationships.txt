@@ -1,0 +1,13 @@
+!root!,Abstract,0,1
+!root!,Alternative title,0,1
+!root!,Audience,0,1
+!root!,Bibliographic citation,0,1
+!root!,Contact,0,1
+Contact,Name,1,1
+Contact,Email,1,1
+!root!,Creator,0,1
+!root!,Description,0,1
+!root!,Spatial Reference,0,1
+Spatial Reference,Latitude,1,1
+Spatial Reference,Longitude,1,1
+Spatial Reference,Altitude,1,1

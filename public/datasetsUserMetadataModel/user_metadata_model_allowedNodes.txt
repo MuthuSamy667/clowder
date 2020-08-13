@@ -1,0 +1,13 @@
+Abstract,String
+Alternative title,String
+Audience,String
+Bibliographic citation,String
+Contact,Node
+Name,String
+Email,String
+Creator,String
+Description,String
+Spatial Reference,Node
+Latitude,String
+Longitude,String
+Altitude,String

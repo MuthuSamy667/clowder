@@ -1,0 +1,21 @@
+<div class="row">
+    <form class="form-horizontal col-md-12">
+        <div class="form-group">
+            <label for="field-value" class="col-sm-2 control-label" title="{{field_id}}">
+                <strong>{{field_label}}</strong>
+            </label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control field-value" id="field-value" data-type="listjquery" data-id="{{field_id}}"
+                       data-label="{{field_label}}" placeholder="type here...">
+            </div>
+        </div>
+
+        {{#if field_description}}
+        <div class="row form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+                {{field_description}}
+            </div>
+        </div>
+        {{/if}}
+    </form>
+</div>
