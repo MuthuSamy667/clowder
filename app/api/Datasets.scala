@@ -10,7 +10,6 @@ import java.util.zip._
 import javax.inject.{Inject, Singleton}
 import controllers.{Previewers, Utils}
 import jsonutils.JsonUtil
-import models._
 import org.apache.commons.codec.binary.Hex
 import org.json.JSONObject
 import play.api.Logger
