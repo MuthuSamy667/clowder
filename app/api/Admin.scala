@@ -14,8 +14,6 @@ import services._
 import services.mongodb.MongoSalatPlugin
 import play.api.Logger
 import util.Mail
-import java.util.io.
-
 import scala.concurrent.duration._
 import play.api.libs.concurrent.Execution.Implicits._
 import play.api.libs.json.{JsString, JsUndefined, JsValue}
