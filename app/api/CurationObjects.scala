@@ -8,7 +8,6 @@ import models._
 import org.apache.http.client.methods.HttpDelete
 import org.apache.http.impl.client.DefaultHttpClient
 import org.apache.http.util.EntityUtils
-import services._
 import play.api.libs.json._
 import play.api.libs.json.Json
 import play.api.libs.json.JsResult
