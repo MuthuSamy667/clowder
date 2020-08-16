@@ -13,7 +13,6 @@ import play.api.libs.json.Json
 import play.api.libs.json.JsResult
 import play.api.libs.json.Json.toJson
 import play.api.Logger
-import play.api.Play.current
 
 /**
  * Manipulates publication requests curation objects.
